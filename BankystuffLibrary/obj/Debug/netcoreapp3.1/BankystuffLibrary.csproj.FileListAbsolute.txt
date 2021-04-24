@@ -1,0 +1,3 @@
+C:\Users\HP\MySuperBank\BankystuffLibrary\obj\Debug\netcoreapp3.1\BankystuffLibrary.csprojAssemblyReference.cache
+C:\Users\HP\MySuperBank\BankystuffLibrary\obj\Debug\netcoreapp3.1\BankystuffLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\MySuperBank\BankystuffLibrary\obj\Debug\netcoreapp3.1\BankystuffLibrary.AssemblyInfo.cs
